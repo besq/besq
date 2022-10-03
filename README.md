@@ -1,7 +1,11 @@
-👋 Hi, I’m @besq
-👀 I’m interested in "Everything related to Java".
+ 👋 Hi, I’m @besq
+ 
+ 👀 I’m interested in everything related to java.
+ 
 🌱 I’m trying to be a decent senior developer and learning more devops work.
+
 💞️ I would appreciate any advice/help/guidance.
+
 📫 Reach me at email: quachbinh0503@gmail.com
 
 <!---
